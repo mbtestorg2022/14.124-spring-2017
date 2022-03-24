@@ -128,7 +128,7 @@ Holmstrom, Bengt. "[Groves’ Scheme on Restricted Domains](https://www.jstor.or
 
 Myerson Roger B., and Mark A. Satterthwaite. "[Efficient Mechanisms for Bilateral Trading](http://www.sciencedirect.com/science/article/pii/0022053183900480)." _Journal of Economic Theory_ 29 (1983): 265–81.
 
-Myerson, Roger B. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Optimal Auction Design (PDF)](http://www.eecs.harvard.edu/~parkes/cs286r/spring07/papers/myerson.pdf)." Northwestern University Center for Mathematical Studies in Economics and Management Science, Discussion Papers No. 362, 1978.
+Myerson, Roger B. "[Optimal Auction Design (PDF)](http://www.eecs.harvard.edu/~parkes/cs286r/spring07/papers/myerson.pdf)." Northwestern University Center for Mathematical Studies in Economics and Management Science, Discussion Papers No. 362, 1978.
 
 
 {{< tdclose >}}
